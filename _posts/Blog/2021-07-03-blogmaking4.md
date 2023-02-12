@@ -75,7 +75,7 @@ jekyll은 정적 페이지 생성기라서, jekyll로 만든 github pages 블로
 {%- if page.comment -%}
 <script
   src="https://utteranc.es/client.js"
-  repo="kasterra/kasterra.github.io"
+  repo="vishwajit-vishnu/vishwajit-vishnu.github.io"
   issue-term="title"
   theme="github-light"
   crossorigin="anonymous"

@@ -18,8 +18,8 @@ webpack이라는 친구는 상당히 많은 역할을 합니다. 원래 JS에서
 
 webpack은 node에서 돌아가는 친구이기 때문에 cjs로 작성을 해야합니다. 우선 제가 작성한 코드를 보여드리고, 설정들을 설명드리겠습니다.
 
-- [webpack.dev.js gist 링크](https://gist.github.com/kasterra/afee218b61cbb09d4761870fdfbac936)
-- [webpack.prod.js gist 링크](https://gist.github.com/kasterra/f0b3ac69b77ecde461fb2a61b1bded93)
+- [webpack.dev.js gist 링크](https://gist.github.com/vishwajit-vishnu/afee218b61cbb09d4761870fdfbac936)
+- [webpack.prod.js gist 링크](https://gist.github.com/vishwajit-vishnu/f0b3ac69b77ecde461fb2a61b1bded93)
 
 ## 0. webpack entry, output 설정
 

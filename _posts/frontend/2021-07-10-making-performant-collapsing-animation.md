@@ -212,9 +212,9 @@ function createKeyframeAnimation() {
 
 위의 사항을 적용해서 최종적으로 만든 기능입니다.
 
-<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="XWRjdNv" data-user="kasterra-the-bashful" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/kasterra-the-bashful/pen/XWRjdNv">
-  performant flexible</a> by Huichan Lee (<a href="https://codepen.io/kasterra-the-bashful">@kasterra-the-bashful</a>)
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="XWRjdNv" data-user="vishwajit-vishnu-the-bashful" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/vishwajit-vishnu-the-bashful/pen/XWRjdNv">
+  performant flexible</a> by Huichan Lee (<a href="https://codepen.io/vishwajit-vishnu-the-bashful">@vishwajit-vishnu-the-bashful</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>

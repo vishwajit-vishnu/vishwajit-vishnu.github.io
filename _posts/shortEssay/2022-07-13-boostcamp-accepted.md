@@ -26,7 +26,7 @@ image: /images/thumbnails/boostcampAc.png
 
 - OS나 기기의 제약을 받지 않는 웹 앱에 대한 관심
 - 주체적인 개발자가 되기 위해서 했던 기술블로그 작성과 세미나 참여
-- 군대에서도 개발을 놓치지 않기 위해서 스스로 만들었던 개발 환경 셋팅 이야기 ([링크](https://kasterra.github.io/code-server-with-vps/))
+- 군대에서도 개발을 놓치지 않기 위해서 스스로 만들었던 개발 환경 셋팅 이야기 ([링크](https://vishwajit-vishnu.github.io/code-server-with-vps/))
 
 # 나의 지식 레벨 & 1차 코테
 

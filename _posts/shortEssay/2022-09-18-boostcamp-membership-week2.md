@@ -25,7 +25,7 @@ image: /images/thumbnails/boostcamp.png
 
 ## express.js
 
-node.js에서 돌아가는 심플하면서도 괜찮은 서버입니다. 예전에 [영상 CRUD 서비스](https://github.com/kasterra/wetube-clone)를 개발하면서는 처음부터 파일 구조를 작성하였지만, [express-generator](https://expressjs.com/en/starter/generator.html) 라는 물건을 알고 나서 이걸로 부트스트래핑을 하니까 정말 편하더라고요. ES5의 `var` 문법등으로 부트스트래핑 되는게 약간 찝찝하긴 했지만, 파일 구조를 뚝스딱스 해준다는것은 참 좋은 일입니다.
+node.js에서 돌아가는 심플하면서도 괜찮은 서버입니다. 예전에 [영상 CRUD 서비스](https://github.com/vishwajit-vishnu/wetube-clone)를 개발하면서는 처음부터 파일 구조를 작성하였지만, [express-generator](https://expressjs.com/en/starter/generator.html) 라는 물건을 알고 나서 이걸로 부트스트래핑을 하니까 정말 편하더라고요. ES5의 `var` 문법등으로 부트스트래핑 되는게 약간 찝찝하긴 했지만, 파일 구조를 뚝스딱스 해준다는것은 참 좋은 일입니다.
 
 ## pug.js
 
@@ -48,7 +48,7 @@ FE개발의 동반자입니다. 모듈화는 정말로 중요한 것이지만, �
 - [https://bambielli.com/til/2017-04-22-webpack-pt-1/](https://bambielli.com/til/2017-04-22-webpack-pt-1/)
 - [http://52.78.22.201/tutorials/translate/webpack-the-confusing-parts/](http://52.78.22.201/tutorials/translate/webpack-the-confusing-parts/)
 
-이번 프로젝트에서 webpack 미들웨어를 express에 달아서, 예전에 [영상 CRUD 서비스](https://github.com/kasterra/wetube-clone) 와는 다르게 `npm dev`을 하나만 띄울 수 있다는 점이 매우 매력적이었습니다. 관련 docs를 남겨놓겠습니다.
+이번 프로젝트에서 webpack 미들웨어를 express에 달아서, 예전에 [영상 CRUD 서비스](https://github.com/vishwajit-vishnu/wetube-clone) 와는 다르게 `npm dev`을 하나만 띄울 수 있다는 점이 매우 매력적이었습니다. 관련 docs를 남겨놓겠습니다.
 
 [https://jeonghwan-kim.github.io/dev/2020/07/18/webpack-dev-middleware.html](https://jeonghwan-kim.github.io/dev/2020/07/18/webpack-dev-middleware.html)
 

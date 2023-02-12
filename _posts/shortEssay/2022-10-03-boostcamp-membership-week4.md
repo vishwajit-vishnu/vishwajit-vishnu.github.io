@@ -30,7 +30,7 @@ image: /images/thumbnails/boostcamp.png
 
 ![유노낫띵](https://cdn.dribbble.com/users/286031/screenshots/2484465/johnsnow.jpg)
 
-네 저는 인프라에 대해서 참 아는것이 없는 사람입니다. 전에 군대에 있을때 적었던 [tabnine 설치기](/code-server-with-vps)를 보면 알 수 있는데, 사실 되게 간단하게 vps 구매해서, nginx 설치하고 SSL 걸어주는 너무나도 간단한 일을 대단한 일이라도 되는듯 글로 정리해서 남겨두는것 보면 견적이 나오지 않나요? 이런 인간이 mySQL을 DB에 깔고, 프로젝트 배포와 관련된 지식도 없으면서, 알고 싶어 하는 궁금증은 더럽게 많아서, 이거 공부한다고 참 많은 시간을 썼던것 같네요. 그때 서버 설정하고 한다고 했던걸 이 블로그에 [글](/setting-ncloud-db-and-service)로도 남겨놓았습니다. 당시 제가 공부했던 키워드들과 링크가 담겨있는 제 개인 노션 [링크](https://kasterra-diary.notion.site/nodejs-adce35cbed124c6e910e4c4c1d32fb11)를 남겨놓겠습니다.
+네 저는 인프라에 대해서 참 아는것이 없는 사람입니다. 전에 군대에 있을때 적었던 [tabnine 설치기](/code-server-with-vps)를 보면 알 수 있는데, 사실 되게 간단하게 vps 구매해서, nginx 설치하고 SSL 걸어주는 너무나도 간단한 일을 대단한 일이라도 되는듯 글로 정리해서 남겨두는것 보면 견적이 나오지 않나요? 이런 인간이 mySQL을 DB에 깔고, 프로젝트 배포와 관련된 지식도 없으면서, 알고 싶어 하는 궁금증은 더럽게 많아서, 이거 공부한다고 참 많은 시간을 썼던것 같네요. 그때 서버 설정하고 한다고 했던걸 이 블로그에 [글](/setting-ncloud-db-and-service)로도 남겨놓았습니다. 당시 제가 공부했던 키워드들과 링크가 담겨있는 제 개인 노션 [링크](https://vishwajit-vishnu-diary.notion.site/nodejs-adce35cbed124c6e910e4c4c1d32fb11)를 남겨놓겠습니다.
 
 ## 3~4주차 3번째 프로젝트
 
@@ -38,7 +38,7 @@ image: /images/thumbnails/boostcamp.png
 
 저는 예전에 React를 많이 사용했고, 나름 익숙하다고 생각합니다.(*생각*합니다. 리액트를 완전 잘 빠싹하게 아느냐 하면 사실 그건 아니지만...) 3번째 프로젝트에서는 SPA를 구현해라는 것이 명세에 있었고, 1,2번째 프로젝트와는 다르게 FE쪽에서 라이브러리 사용 제한이 해금이 되었지만, 저에게 너무나도 익숙한 React, 그것도 CRA(create-react-app)을 사용해서 프로젝트를 진행한다면, 마스터님께서 늘상 강조하신, `학습`이 아닌 `노동`을 하게 될것 같다고 생각하여서, '완전히 낯선 스택을 선택하여, 완전 처음부터 SPA와 CSR을 한번 만들어보자!' 하는 생각을 하게 되었고, 이것이 저의 수많은 시간을 잡아먹은 삽질의 근원이 되었습니다.
 
-최대한 어떠한 라이브러리를 사용하지 않은 바닐라JS에 근접한 형태로 작업을 하고 싶어서, 바닐라 JS에서 제공하는 Custom Element 문법과 관련된 것들을 알아보았고 (관련 사항들을 정리한 노선 [링크](https://kasterra-diary.notion.site/shadow-DOM-custom-element-134ca364e8984a70ac615fd615b9c29b)) 제가 개발을 할 때, 관련 도움을 받을 수 있는 커뮤니티가 잘 되어 있는가 등의 나름의 여러 기준을 거쳐서 [lit](https://lit.dev/) 라는 라이브러리를 선택하였고, 해당 라이브러리로 SPA 작업을 하기 위해서, 여러 자료들을 찾아보았고, 이를 [노션에 정리](https://kasterra-diary.notion.site/lit-spa-107b4047e2aa40ffa404aa7ebc68ff19)하였고, 이제 이 지식을 기반으로, Typescript까지 붙여서 프로젝트를 위한 webpack 설정을 하는데, 여기에서도 여럿 문제가 생겼고, 이 문제를 해결하기 위해서 많은 시간을 구글링에 쏟았고, 이 역시 [노션에 정리](https://kasterra-diary.notion.site/webpack-58b81266662e4e458545c28e3a73b7dc)해 두었습니다. 아마 이 과정들은 정리해서 전에 ncloud 포스팅처럼 이 역시 별도의 포스팅으로 만들지 않을까 싶습니다.
+최대한 어떠한 라이브러리를 사용하지 않은 바닐라JS에 근접한 형태로 작업을 하고 싶어서, 바닐라 JS에서 제공하는 Custom Element 문법과 관련된 것들을 알아보았고 (관련 사항들을 정리한 노선 [링크](https://vishwajit-vishnu-diary.notion.site/shadow-DOM-custom-element-134ca364e8984a70ac615fd615b9c29b)) 제가 개발을 할 때, 관련 도움을 받을 수 있는 커뮤니티가 잘 되어 있는가 등의 나름의 여러 기준을 거쳐서 [lit](https://lit.dev/) 라는 라이브러리를 선택하였고, 해당 라이브러리로 SPA 작업을 하기 위해서, 여러 자료들을 찾아보았고, 이를 [노션에 정리](https://vishwajit-vishnu-diary.notion.site/lit-spa-107b4047e2aa40ffa404aa7ebc68ff19)하였고, 이제 이 지식을 기반으로, Typescript까지 붙여서 프로젝트를 위한 webpack 설정을 하는데, 여기에서도 여럿 문제가 생겼고, 이 문제를 해결하기 위해서 많은 시간을 구글링에 쏟았고, 이 역시 [노션에 정리](https://vishwajit-vishnu-diary.notion.site/webpack-58b81266662e4e458545c28e3a73b7dc)해 두었습니다. 아마 이 과정들은 정리해서 전에 ncloud 포스팅처럼 이 역시 별도의 포스팅으로 만들지 않을까 싶습니다.
 
 ### `new Date()`는 거지같습니다. 그래서 `Temporal`을 사용했습니다.
 

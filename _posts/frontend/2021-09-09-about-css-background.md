@@ -29,9 +29,9 @@ HTML(또는 pug)과 CSS(또는 scss)만으로 클론 코딩 연습을 하다가,
 
 `background-color` 속성은 CSS `<color>` 자료형을 사용하여 **단색** 배경을 지정하는데에 사용합니다. 자식 요소 등이 다른 `background-color` 속성을 명시하고 있지 않은 한, 자식 요소에도 적용이 됩니다.
 
-<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="OJgbEmB" data-user="kasterra-the-bashful" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/kasterra-the-bashful/pen/OJgbEmB">
-  background-color</a> by Huichan Lee (<a href="https://codepen.io/kasterra-the-bashful">@kasterra-the-bashful</a>)
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="OJgbEmB" data-user="vishwajit-vishnu-the-bashful" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/vishwajit-vishnu-the-bashful/pen/OJgbEmB">
+  background-color</a> by Huichan Lee (<a href="https://codepen.io/vishwajit-vishnu-the-bashful">@vishwajit-vishnu-the-bashful</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>

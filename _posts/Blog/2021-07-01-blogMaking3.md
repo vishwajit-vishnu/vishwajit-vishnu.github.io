@@ -78,7 +78,7 @@ timezone: KR
 ##############################
 author:
   type      : # "person" (default), "organization"
-  name      : Kasterra
+  name      : vishwajit-vishnu
   url       :
   avatar    : # path or url of avatar image (square)
   bio       : 배울것이 아직 많아, 열심히 배우는 학생입니다.
@@ -307,7 +307,7 @@ assign _article_cover = __return -%}
 ## 파비콘으로 가공하고 적용하기
 
 [TeXt 공식 문서](https://tianqi.name/jekyll-TeXt-theme/docs/en/logo-and-favicon)에서 로고와 파비콘에 대한 설명이 있어, 이 설명대로 따라가겠습니다.
-파비콘으로 만들 이미지 파일을 제출하는데, 개인적인 조언이라면, 손톱만큼의 크기로 보이는것이 파비콘 이기에, 많은 요소를 넣지 않는것이 좋습니다. 제 경우에는, kasterra 라는 글씨를 뺴고, 행성 그림만 나오게 하여 제출해서 사용하였습니다.
+파비콘으로 만들 이미지 파일을 제출하는데, 개인적인 조언이라면, 손톱만큼의 크기로 보이는것이 파비콘 이기에, 많은 요소를 넣지 않는것이 좋습니다. 제 경우에는, vishwajit-vishnu 라는 글씨를 뺴고, 행성 그림만 나오게 하여 제출해서 사용하였습니다.
 
 아이콘을 패키지를 다운받고, 이를 적절한 곳에 블로그에 배치해 줍시다.
 `browserconfig.xml`과 `site.webmanifest`또한 교체하여 주고, 페이지에서 나온 html 코드는 `_includes/head/favicon.html`에 교체해서 넣어줍시다.

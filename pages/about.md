@@ -7,7 +7,7 @@ date: '2021-08-02 22:30:00'
 menu: false
 ---
 
-<img src="/images/logo_transparent_background.png" alt="Kasterra logo" width="500">
+<img src="/images/logo_transparent_background.png" alt="vishwajit-vishnu logo" width="500">
 
 # 소개
 풀 스택을 꿈꾸는 학생의 블로그 입니다.

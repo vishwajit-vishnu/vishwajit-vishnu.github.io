@@ -31,9 +31,9 @@ series: css Grid
 
 문법의 사용법은, 각 css 속성의 이름에서 느껴지는 것과 동일합니다. 시작하는 행/열의 번호와, 끝나는 행/열 번호를 지정해서, 배치하면 됩니다. 서두에서 말했던, header,main,nav,footer를 4 x 4 grid에 직접 배치하는 예제를 살펴봅시다.
 
-<p class="codepen" data-height="300" data-default-tab="result" data-slug-hash="GREaXpa" data-user="kasterra-the-bashful" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/kasterra-the-bashful/pen/GREaXpa">
-  grid item placement</a> by Huichan Lee (<a href="https://codepen.io/kasterra-the-bashful">@kasterra-the-bashful</a>)
+<p class="codepen" data-height="300" data-default-tab="result" data-slug-hash="GREaXpa" data-user="vishwajit-vishnu-the-bashful" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/vishwajit-vishnu-the-bashful/pen/GREaXpa">
+  grid item placement</a> by Huichan Lee (<a href="https://codepen.io/vishwajit-vishnu-the-bashful">@vishwajit-vishnu-the-bashful</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
@@ -159,9 +159,9 @@ $$$$$$$$$___$$$$$$$_________$$$$$_____$$$$$$$$$$
 
 아래는 `justify-items` 그리고 `align-items`를 사용한 codepen 예제입니다. 각 제목에 붙인 속성 외에는 전부 기본값으로 설정되있다는 점을 착안해서 아래의 예제를 살펴 주시기 바랍니다.
 
-<p class="codepen" data-height="300" data-default-tab="result" data-slug-hash="KKqjWqN" data-user="kasterra-the-bashful" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/kasterra-the-bashful/pen/KKqjWqN">
-  justify-items align-items</a> by Huichan Lee (<a href="https://codepen.io/kasterra-the-bashful">@kasterra-the-bashful</a>)
+<p class="codepen" data-height="300" data-default-tab="result" data-slug-hash="KKqjWqN" data-user="vishwajit-vishnu-the-bashful" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/vishwajit-vishnu-the-bashful/pen/KKqjWqN">
+  justify-items align-items</a> by Huichan Lee (<a href="https://codepen.io/vishwajit-vishnu-the-bashful">@vishwajit-vishnu-the-bashful</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
@@ -209,14 +209,14 @@ css grid에 적용되는 이 두 속성을 쉽게 이해하기 위해서는, fle
 
 아래는 `justify-content` 그리고 `align-content`를 사용한 codepen 예제입니다. 각 제목에 붙인 속성 외에는 기본값으로 설정했다는 점을 착안하여 확인해 주시기 바랍니다.
 
-<p class="codepen" data-height="300" data-default-tab="result" data-slug-hash="jOwjmzK" data-user="kasterra-the-bashful" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/kasterra-the-bashful/pen/jOwjmzK">
-  justify-items align-items</a> by Huichan Lee (<a href="https://codepen.io/kasterra-the-bashful">@kasterra-the-bashful</a>)
+<p class="codepen" data-height="300" data-default-tab="result" data-slug-hash="jOwjmzK" data-user="vishwajit-vishnu-the-bashful" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/vishwajit-vishnu-the-bashful/pen/jOwjmzK">
+  justify-items align-items</a> by Huichan Lee (<a href="https://codepen.io/vishwajit-vishnu-the-bashful">@vishwajit-vishnu-the-bashful</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
-실제 예제로 봤을 때, grid 자체가 옮겨지는 느낌이 들지 않나요? 확실하게 확인하고 싶다면, 이 [링크](https://cdpn.io/kasterra-the-bashful/debug/jOwjmzK/PNAvYXVxWGOr)로 들어가서 개발자 모드를 활용해서 inspect 를 해보는것도 그렇게 나쁘지는 않을 듯 합니다.
+실제 예제로 봤을 때, grid 자체가 옮겨지는 느낌이 들지 않나요? 확실하게 확인하고 싶다면, 이 [링크](https://cdpn.io/vishwajit-vishnu-the-bashful/debug/jOwjmzK/PNAvYXVxWGOr)로 들어가서 개발자 모드를 활용해서 inspect 를 해보는것도 그렇게 나쁘지는 않을 듯 합니다.
 
 ## 단축속성 : place-content
 

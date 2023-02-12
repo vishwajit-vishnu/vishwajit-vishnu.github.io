@@ -18,7 +18,7 @@ image: /images/thumbnails/boostcamp.png
 
 네 제목 그대로 여전히 개발은 안했지만서도, 그래도 뭔가 하긴 했습니다. 열심히 제가 공부 했던것들을 정리하고 정리해서, 블로그에 기록을 남긴 것이지요. 2013년도에 쓰인 canvas 관련 코드를 모던 JS로 리팩토링 하기 위해서 JS의 기초를 열심히 봤습니다.
 
-- [작업물 repo](https://github.com/kasterra/canvas-viewport)
+- [작업물 repo](https://github.com/vishwajit-vishnu/canvas-viewport)
 - [`proxy` 기초에 관하여](/middleware-of-js-proxy/)
 - [`proxy`의 고급 사용법](/proxy-advance-use/)
 

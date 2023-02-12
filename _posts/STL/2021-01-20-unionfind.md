@@ -48,7 +48,7 @@ belongsTo[i] = i번 원소가 속하는 집합의 번호
 ## 트리를 이용해 표현하기
 
 배열표현의 "합치기 연산이 느리다"라는 단점을 극복하는 좋은 방법 중 하나는, 트리를 이용해서 이를 구현해보는 것입니다. 이 표현에서는 한 집합에 속하는 원소들을 하나의 트리로 표현하여, 상호 배타적 집합이 트리들의 집합이 되도록 합니다. 아래의 그림 1에서 여덟개의 원소가 두개의 집합으로 분할되어 있는것을 볼 수 있습니다.
-![](https://images.velog.io/images/kasterra/post/21615017-a766-4256-bcbf-c090f85d72fa/image.png)
+![](https://images.velog.io/images/vishwajit-vishnu/post/21615017-a766-4256-bcbf-c090f85d72fa/image.png)
 
 <center>그림 1 : 트리를 이용한 상호 배타적 집합의 표현</center>
 

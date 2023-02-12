@@ -159,9 +159,9 @@ radial-gradient([<span style="font-style:italic">shape size</span> [at <span sty
 
 이렇게만 설명하면 와닿지가 않으니, codepen 예시를 첨부하면서 한번 더 확인해 보겠습니다.
 
-<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="RwggQoW" data-user="kasterra-the-bashful" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/kasterra-the-bashful/pen/RwggQoW">
-  radial-gradient size</a> by Huichan Lee (<a href="https://codepen.io/kasterra-the-bashful">@kasterra-the-bashful</a>)
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="RwggQoW" data-user="vishwajit-vishnu-the-bashful" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/vishwajit-vishnu-the-bashful/pen/RwggQoW">
+  radial-gradient size</a> by Huichan Lee (<a href="https://codepen.io/vishwajit-vishnu-the-bashful">@vishwajit-vishnu-the-bashful</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
@@ -188,9 +188,9 @@ css의 `<position>`자료형을 이용해서 그라데이션 도형의 중심부
 
 `radial-gradient`에서도 비슷한 상황이 생깁니다. 백문이 불여일견 이므로, 차이를 시각적으로 바로 볼 수 있는 codepen을 첨부하도록 하겠습니다.
 
-<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="bGRRKbB" data-user="kasterra-the-bashful" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/kasterra-the-bashful/pen/bGRRKbB">
-  radial-gradient vs repeating-radial-gradient</a> by Huichan Lee (<a href="https://codepen.io/kasterra-the-bashful">@kasterra-the-bashful</a>)
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="bGRRKbB" data-user="vishwajit-vishnu-the-bashful" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/vishwajit-vishnu-the-bashful/pen/bGRRKbB">
+  radial-gradient vs repeating-radial-gradient</a> by Huichan Lee (<a href="https://codepen.io/vishwajit-vishnu-the-bashful">@vishwajit-vishnu-the-bashful</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>

@@ -1,5 +1,5 @@
-name: Kasterra's Archive
-title: Kasterra's Archive | A Tech Blog
+name: vishwajit-vishnu's Archive
+title: vishwajit-vishnu's Archive | A Tech Blog
 description: 풀 스택이 되고자 하는 학생의 꾸준하고 싶은 기록입니다.
 tags:
   - blog
@@ -17,7 +17,7 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: kasterra@naver.com
+email: vishwajit-vishnu@naver.com
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting

@@ -86,7 +86,7 @@ const initialData = {
 };
 ```
 
-그리고, 각 Column들이 적당히 보기좋게 보이도록 스타일링도 몇가지 해줍시다 ([커밋해 놓은 코드](https://github.com/kasterra/dnd-study/commit/a157ca7bcfd7f9c9244ed962b94c46973ec47bb4)를 참고하세요)
+그리고, 각 Column들이 적당히 보기좋게 보이도록 스타일링도 몇가지 해줍시다 ([커밋해 놓은 코드](https://github.com/vishwajit-vishnu/dnd-study/commit/a157ca7bcfd7f9c9244ed962b94c46973ec47bb4)를 참고하세요)
 
 그리고, 스타일링이 완료된 이 리스트에서 드래그 앤 드롭을 시도하니...
 

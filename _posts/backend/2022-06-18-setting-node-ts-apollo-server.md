@@ -102,7 +102,7 @@ server.listen({ port: 3000 }).then(({ url }) => {
 
 ```bash
 $ yarn build
-TSFILE: /home/kasterra/Project/graphql-api/dist/index.js
+TSFILE: /home/vishwajit-vishnu/Project/graphql-api/dist/index.js
 ```
 
 이런 결과를 확인할 수 있고, `yarn node dist/index.js`를 실행해서, 우리의 빌드 결과물을 확인할 수 있습니다. 왜 `node dist/index.js`를 하지 않냐면, 현재 `yarn berry`를 사용하고 있기에, npm이나 yarn classic 처럼 node_modules에 바로 모듈이 담겨있지 않고, zip 파일 안에 묶여있습니다. `yarn node`로 실행하면, 그런 모듈 resolving 과정을 해결해 주는게 아닌가... 싶습니다.

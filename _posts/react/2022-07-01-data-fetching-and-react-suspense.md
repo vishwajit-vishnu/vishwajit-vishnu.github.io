@@ -471,4 +471,4 @@ React Suspense를 사용하면 비동기 처리를 더욱 선언적으로 할 �
 
 ## 예제 앱 Repo
 
-- [https://github.com/kasterra/suspense-data-fetching](https://github.com/kasterra/suspense-data-fetching)
+- [https://github.com/vishwajit-vishnu/suspense-data-fetching](https://github.com/vishwajit-vishnu/suspense-data-fetching)

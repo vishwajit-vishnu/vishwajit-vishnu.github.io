@@ -45,7 +45,7 @@ category: blog
 
 # 블로그에 포스트 등록해보기
 
-블로그에 포스트를 작성하는 방법은 이전 포스트에서도 말했듯, `_post`폴더에, `.md`나 `.html` 형식으로 글을 쓰면 됩니다. 예전에 `Velog`를 쓰면서 [마크다운과 Katex 수식으로 썼던 글](https://drive.google.com/file/d/19rLqs6GxSbNVfks9LCcxEkeu9_OmpP2z/view?usp=sharing)을 이 Jekyll 블로그에 올려서, `Velog`처럼 잘 나오는지 확인해 보고자 합니다. 이 글 내용은, 지금 이 블로그에서도 볼 수 있는, 유량그래프 관련한 글입니다. 원래 `velog`에서는 문제없이 보였던 글입니다. [원본 velog글 링크](https://velog.io/@kasterra/%EC%9C%A0%EB%9F%89-%EA%B7%B8%EB%9E%98%ED%94%84-%EC%97%90%EB%93%9C%EB%AA%AC%EB%93%9C-%EC%B9%B4%ED%94%84-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+블로그에 포스트를 작성하는 방법은 이전 포스트에서도 말했듯, `_post`폴더에, `.md`나 `.html` 형식으로 글을 쓰면 됩니다. 예전에 `Velog`를 쓰면서 [마크다운과 Katex 수식으로 썼던 글](https://drive.google.com/file/d/19rLqs6GxSbNVfks9LCcxEkeu9_OmpP2z/view?usp=sharing)을 이 Jekyll 블로그에 올려서, `Velog`처럼 잘 나오는지 확인해 보고자 합니다. 이 글 내용은, 지금 이 블로그에서도 볼 수 있는, 유량그래프 관련한 글입니다. 원래 `velog`에서는 문제없이 보였던 글입니다. [원본 velog글 링크](https://velog.io/@vishwajit-vishnu/%EC%9C%A0%EB%9F%89-%EA%B7%B8%EB%9E%98%ED%94%84-%EC%97%90%EB%93%9C%EB%AA%AC%EB%93%9C-%EC%B9%B4%ED%94%84-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 
 아무튼 이제 이 글을 우리의 블로그에 올려보고, 이것이 잘 작동하는지 확인해 봅시다. 물론, 로컬에서 빌드 작업을 진행하겠습니다. 지금부터는 블로그의 여러 내용을 이것저것 수정해볼 것이기 떄문에, 로컬에서 작업을 다 하고, 확인이 된 후에 커밋을 하는쪽이 좀더 커밋 목록이 깔끔해 지는 방법이 아닐까 싶습니다.
 

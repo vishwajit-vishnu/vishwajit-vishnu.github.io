@@ -16,7 +16,7 @@ canvas를 사용할 때, 처음 사용자에게 보이는 것이 전부인 경�
 
 우선 여기서 설명할 코드는 [무려 9년전의 stackoverflow글](https://stackoverflow.com/questions/16919601/html5-canvas-camera-viewport-how-to-actually-do-it)에서 온 것입니다. `canvas camera`라는 검색어로 구글 검색을 해봤을 때, 당당히 1위를 차지하고 있는 글인데... 코드가 ES6 문법이 반영되어 있지 않고, 모든 파일을 하나로 한데 합쳐놔서 모던 자바스크립트에 익숙한 저에게 상당히 읽기가 불편했습니다.
 
-그래서 저는 여기서 작성된 코드들을 webpack을 이용해서 모듈들로 쪼개고, `class` 문법 등을 사용해서 좀 더 현대적인 냄새가 나는 코드로 약간의 리팩토링을 거쳤고, 결과물은 [여기](https://github.com/kasterra/canvas-viewport)에 있습니다.
+그래서 저는 여기서 작성된 코드들을 webpack을 이용해서 모듈들로 쪼개고, `class` 문법 등을 사용해서 좀 더 현대적인 냄새가 나는 코드로 약간의 리팩토링을 거쳤고, 결과물은 [여기](https://github.com/vishwajit-vishnu/canvas-viewport)에 있습니다.
 
 이제 이 코드를 한차례 한차례씩 뜯어보면서 설명을 시작해 보겠습니다. 물론 전부 다 해체하는것은 아니고, 흐름 위주로요 :)
 

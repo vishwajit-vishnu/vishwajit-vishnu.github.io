@@ -10,18 +10,18 @@ category: frontend
 
 css와 HTML로 웹 페이지를 만드는 상황을 한번 생각해 봅시다. 제 블로그를 포함한 웹 페이지는 대부분 위에서 아래로 스크롤을 하면서 내용물을 보도록 구성되어 있습니다. 이런 수직적 레이아웃은 구성하기 어렵지 않습니다. css 에서의 `display`속성 중, `display:block`을 사용하면, 수직적 레이아웃을 간단히 만들 수 있습니다.
 
-<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="bGRbVNd" data-user="kasterra-the-bashful" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/kasterra-the-bashful/pen/bGRbVNd">
-  display:block</a> by Huichan Lee (<a href="https://codepen.io/kasterra-the-bashful">@kasterra-the-bashful</a>)
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="bGRbVNd" data-user="vishwajit-vishnu-the-bashful" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/vishwajit-vishnu-the-bashful/pen/bGRbVNd">
+  display:block</a> by Huichan Lee (<a href="https://codepen.io/vishwajit-vishnu-the-bashful">@vishwajit-vishnu-the-bashful</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
 문제 상황은 수평적인 구성에서 발생합니다. [display:float](https://developer.mozilla.org/ko/docs/Web/CSS/float)나 `display:inline-block`을 사용해서 구성할 수는 있지만 사용이 불편하다는 단점이 있습니다. 그리고, `display:inline-block`에는 골때리는 **특징**이 있습니다.
 
-<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="gORYaXp" data-user="kasterra-the-bashful" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/kasterra-the-bashful/pen/gORYaXp">
-  display:block</a> by Huichan Lee (<a href="https://codepen.io/kasterra-the-bashful">@kasterra-the-bashful</a>)
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="gORYaXp" data-user="vishwajit-vishnu-the-bashful" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/vishwajit-vishnu-the-bashful/pen/gORYaXp">
+  display:block</a> by Huichan Lee (<a href="https://codepen.io/vishwajit-vishnu-the-bashful">@vishwajit-vishnu-the-bashful</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
@@ -36,9 +36,9 @@ Flexbox를 사용하는 방법은, flexbox container가 될 div 등에게 `displ
 
 `display:flex`와 `display:inline-flex`의 차이는, 컨테이너 자체가, inline요소로 취급되는지, block으로 취급되는지를 결정하기만 합니다. 아래의 codepen 예시를 보면 간단히 알 수 있을 것입니다.
 
-<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="oNwvpBX" data-user="kasterra-the-bashful" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/kasterra-the-bashful/pen/oNwvpBX">
-  flex vs inline flex</a> by Huichan Lee (<a href="https://codepen.io/kasterra-the-bashful">@kasterra-the-bashful</a>)
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="oNwvpBX" data-user="vishwajit-vishnu-the-bashful" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/vishwajit-vishnu-the-bashful/pen/oNwvpBX">
+  flex vs inline flex</a> by Huichan Lee (<a href="https://codepen.io/vishwajit-vishnu-the-bashful">@vishwajit-vishnu-the-bashful</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
@@ -53,9 +53,9 @@ Flexbox를 이해하려면 꼭 제대로 알아야 하는 내용입니다. 메�
 
 메인 축의 방향은 **flexbox container**에서 `flex-direction`이라는 속성으로 설정할 수 있습니다. 기본값은 row(가로방향, 행)이며, column(세로방향, 열) 입니다. 이것 말고도 적용할 수 있는 속성에는 row-reverse, column-reverse가 있는데, 여기에 관한 것은 직접 codepen 예제를 눈으로 보면서 설명하겠습니다.
 
-<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="zYzOpEV" data-user="kasterra-the-bashful" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/kasterra-the-bashful/pen/zYzOpEV">
-  flex-direction</a> by Huichan Lee (<a href="https://codepen.io/kasterra-the-bashful">@kasterra-the-bashful</a>)
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="zYzOpEV" data-user="vishwajit-vishnu-the-bashful" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/vishwajit-vishnu-the-bashful/pen/zYzOpEV">
+  flex-direction</a> by Huichan Lee (<a href="https://codepen.io/vishwajit-vishnu-the-bashful">@vishwajit-vishnu-the-bashful</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
@@ -149,9 +149,9 @@ wrap이 발생하면, 여러 줄이 생깁니다. 그 줄들을 어떻게 정렬
 
 `align-items`는 교차축을 기준으로 아이템들을 정렬하는 속성임을 우리는 위에서 확인했습니다. 만약 특정한 아이템을 다른 방식으로 정렬하고 싶다면, 기존에 알고 있는 지식만으로는 flexbox 만으로는 해결이 힘들것 같아 보이지요. 이럴때 쓰는 것이 align-self 입니다. align-items의 속성값을 그대로 쓸 수 있습니다. 기본값은 `auto`로 align-items에서 지정된 값을 그대로 사용하는 것입니다.
 
-<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="GRERJKM" data-user="kasterra-the-bashful" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/kasterra-the-bashful/pen/GRERJKM">
-  </a> by Huichan Lee (<a href="https://codepen.io/kasterra-the-bashful">@kasterra-the-bashful</a>)
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="GRERJKM" data-user="vishwajit-vishnu-the-bashful" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/vishwajit-vishnu-the-bashful/pen/GRERJKM">
+  </a> by Huichan Lee (<a href="https://codepen.io/vishwajit-vishnu-the-bashful">@vishwajit-vishnu-the-bashful</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
@@ -168,9 +168,9 @@ HTML을 변경하지 **않고**, flexbox에서 배치되는 순서를 변경할 
 
 컨테이너에 메인 축을 따라 아이템들을 배치하고 공간이 남아서, 여백이 생길 수 있습니다. 이때, 남는 공간을 특정한 아이템이 사용했으면 좋겠다 라는 생각을 했을 때, 사용할 수 있는 옵션입니다. 기본값은 0이기 떄문에, 아무것도 설정하지 않으면 아이템이 늘어나지 않습니다.
 
-<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="qBjBdrR" data-user="kasterra-the-bashful" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/kasterra-the-bashful/pen/qBjBdrR">
-  flex-grow</a> by Huichan Lee (<a href="https://codepen.io/kasterra-the-bashful">@kasterra-the-bashful</a>)
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="qBjBdrR" data-user="vishwajit-vishnu-the-bashful" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/vishwajit-vishnu-the-bashful/pen/qBjBdrR">
+  flex-grow</a> by Huichan Lee (<a href="https://codepen.io/vishwajit-vishnu-the-bashful">@vishwajit-vishnu-the-bashful</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>

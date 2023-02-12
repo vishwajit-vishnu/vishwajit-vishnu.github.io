@@ -36,7 +36,7 @@ sudo apt install ruby-dev make gcc
 이걸 설치하지 않으면 아래와 같은 오류를 보게 됩니다.
 
 ```bash
-kasterra@kasterra-ZenBook-UX482EA-UX482EA:~/Project/kasterra.github.io$ sudo gem install jekyll
+vishwajit-vishnu@vishwajit-vishnu-ZenBook-UX482EA-UX482EA:~/Project/vishwajit-vishnu.github.io$ sudo gem install jekyll
 Building native extensions. This could take a while...
 ERROR:  Error installing jekyll:
         ERROR: Failed to build gem native extension.

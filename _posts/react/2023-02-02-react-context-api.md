@@ -52,7 +52,7 @@ Redux를 설명 할 떄, 대부분 Todo 앱을 하나 만드는 것으로 데이
 
 우리가 이 포스트에서 집중하고자 하는것은, HTML, CSS와 같은 마크업이 아닌, 데이터를 넘기는 Context API 입니다. 해당 영역에만 집중하면서, 화면에 시각적으로 보이는 앱을 만들기 위해서, 미리 템플릿을 만들어 놨으니, 하단 링크에서 받아서 같이 진행하면 될 것 같습니다.
 
-[템플릿 github 레포 링크](https://github.com/kasterra/context-app-template)
+[템플릿 github 레포 링크](https://github.com/vishwajit-vishnu/context-app-template)
 
 # Context 만들고 제공하기
 

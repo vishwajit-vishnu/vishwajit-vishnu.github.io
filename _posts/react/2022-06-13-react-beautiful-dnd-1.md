@@ -20,7 +20,7 @@ image: /images/thumbnails/rbd.png
 
 참 서론이 깁니다만, 최대한 여러분께 글을 압축해서 전달하기 위함이니, 양해 부탁드립니다. 프론트엔드 개발에서 뷰를 떼어놓고는 설명을 할 수는 없지만, 이 글에서는 여러분께 이 멋진 라이브러리의 사용법 이라는 것에 더욱 더 초점을 맞추기 위해서, 뷰 개발 부분을 생략하겠습니다. 이 글의 출처가 되는 [공식 튜토리얼 비디오](https://egghead.io/courses/beautiful-and-accessible-drag-and-drop-with-react-beautiful-dnd) 에서는 클래스형 컴포넌트를 사용하고, 컴포넌트 스타일링에 `styled-component`를 사용하지만, 저는 제 입맛에 맞게 환경을 구성하여서 설명을 진행하겠습니다. 환경만 다를 뿐이지, 전하고자 하는 핵심내용은 최대한 손상시키지 않기 위해서 노력하겠습니다!
 
-본격적인 설명을 시작하기 전에, [제 깃헙 레포](https://github.com/kasterra/dnd-study)에 들어가셔서 레포를 `clone`받으신 후에,
+본격적인 설명을 시작하기 전에, [제 깃헙 레포](https://github.com/vishwajit-vishnu/dnd-study)에 들어가셔서 레포를 `clone`받으신 후에,
 
 ```bash
 git checkout init

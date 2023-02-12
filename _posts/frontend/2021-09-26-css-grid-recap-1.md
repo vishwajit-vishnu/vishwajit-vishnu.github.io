@@ -11,9 +11,9 @@ series: css Grid
 
 CSS Flexbox는 웹 페이지 레이아웃을 짜는데 분명 도움이 됩니다. 하지만, flexbox 만으로 모든 레이아웃 문제가 해결되지는 않습니다. 흔히 Flexbox의 가장 큰 한계점이 격자형(grid) 디자인을 만들기 어렵기에 CSS Grid가 탄생했다고 설명하는 경우가 많습니다.
 
-<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="rNwZazm" data-user="kasterra-the-bashful" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/kasterra-the-bashful/pen/rNwZazm">
-  flex cannot grid</a> by Huichan Lee (<a href="https://codepen.io/kasterra-the-bashful">@kasterra-the-bashful</a>)
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="rNwZazm" data-user="vishwajit-vishnu-the-bashful" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/vishwajit-vishnu-the-bashful/pen/rNwZazm">
+  flex cannot grid</a> by Huichan Lee (<a href="https://codepen.io/vishwajit-vishnu-the-bashful">@vishwajit-vishnu-the-bashful</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
@@ -105,9 +105,9 @@ grid-template-rows: 50px 1fr 3fr 50px;
 
 가 됩니다. `%`를 사용했다면, 할 수 없는 일이지요. 실제로 그렇게 되는지 codepen 예제를 통해서 살펴봅시다.
 
-<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="qBjJYam" data-user="kasterra-the-bashful" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/kasterra-the-bashful/pen/qBjJYam">
-  introducing fr</a> by Huichan Lee (<a href="https://codepen.io/kasterra-the-bashful">@kasterra-the-bashful</a>)
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="qBjJYam" data-user="vishwajit-vishnu-the-bashful" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/vishwajit-vishnu-the-bashful/pen/qBjJYam">
+  introducing fr</a> by Huichan Lee (<a href="https://codepen.io/vishwajit-vishnu-the-bashful">@vishwajit-vishnu-the-bashful</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
@@ -120,9 +120,9 @@ css Grid에서 이러한 현상을 제어하기 위해서 위에 제목에도 �
 
 시각적으로 보이는것이 가장 이해하기 쉬운 방법이라 생각해 codepen을 첨부하겠습니다.
 
-<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="QWgZxdK" data-user="kasterra-the-bashful" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/kasterra-the-bashful/pen/QWgZxdK">
-  grid-auto cells</a> by Huichan Lee (<a href="https://codepen.io/kasterra-the-bashful">@kasterra-the-bashful</a>)
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="QWgZxdK" data-user="vishwajit-vishnu-the-bashful" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/vishwajit-vishnu-the-bashful/pen/QWgZxdK">
+  grid-auto cells</a> by Huichan Lee (<a href="https://codepen.io/vishwajit-vishnu-the-bashful">@vishwajit-vishnu-the-bashful</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
@@ -137,9 +137,9 @@ css Grid에서 이러한 현상을 제어하기 위해서 위에 제목에도 �
 
 위에서 이미 기본값으로 `grid-auto-flow`가 `row`인 경우를 살펴보았기 떄문에, 위의 코드에서 `grid-auto-flow`를 `column`으로 바꾼 codepen을 첨부하겠습니다.
 
-<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="mdwzKXd" data-user="kasterra-the-bashful" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/kasterra-the-bashful/pen/mdwzKXd">
-  grid-auto cells</a> by Huichan Lee (<a href="https://codepen.io/kasterra-the-bashful">@kasterra-the-bashful</a>)
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="mdwzKXd" data-user="vishwajit-vishnu-the-bashful" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/vishwajit-vishnu-the-bashful/pen/mdwzKXd">
+  grid-auto cells</a> by Huichan Lee (<a href="https://codepen.io/vishwajit-vishnu-the-bashful">@vishwajit-vishnu-the-bashful</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
@@ -163,9 +163,9 @@ CSS에 내장된 Grid용 함수입니다. 사용처는 `grid-template-rows`, `gr
 
 아래의 codepen을 통해서 minmax가 미적용/적용된 사례를 살펴봅시다.
 
-<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="mdwzjZq" data-user="kasterra-the-bashful" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/kasterra-the-bashful/pen/mdwzjZq">
-  about minmax</a> by Huichan Lee (<a href="https://codepen.io/kasterra-the-bashful">@kasterra-the-bashful</a>)
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="mdwzjZq" data-user="vishwajit-vishnu-the-bashful" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/vishwajit-vishnu-the-bashful/pen/mdwzjZq">
+  about minmax</a> by Huichan Lee (<a href="https://codepen.io/vishwajit-vishnu-the-bashful">@vishwajit-vishnu-the-bashful</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
@@ -180,9 +180,9 @@ CSS에 내장된 Grid용 함수입니다. 사용처는 `grid-template-rows`, `gr
 
 `auto-fill`은 말 그대로, 남는 공간을 활용해서 최대한 많은 칸을 **채우려고** 하는 것이며, `auto-fit`은 남는 공간을 활용해서 있는 칸을 **맞추려고** 하는 것입니다. 이렇게 말로만 하면 사실 와닫지 않는것이 현실이기에 직접 codepen 예제를 살펴보면서 다루도록 하겠습니다.
 
-<p class="codepen" data-height="300" data-default-tab="result" data-slug-hash="ExXdBar" data-user="kasterra-the-bashful" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/kasterra-the-bashful/pen/ExXdBar">
-  auto-fill vs auto-fit</a> by Huichan Lee (<a href="https://codepen.io/kasterra-the-bashful">@kasterra-the-bashful</a>)
+<p class="codepen" data-height="300" data-default-tab="result" data-slug-hash="ExXdBar" data-user="vishwajit-vishnu-the-bashful" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/vishwajit-vishnu-the-bashful/pen/ExXdBar">
+  auto-fill vs auto-fit</a> by Huichan Lee (<a href="https://codepen.io/vishwajit-vishnu-the-bashful">@vishwajit-vishnu-the-bashful</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
@@ -191,7 +191,7 @@ CSS에 내장된 Grid용 함수입니다. 사용처는 `grid-template-rows`, `gr
 ![auto-fill vs auto-fit](/images/frontend/auto-fill-vs-auto-fit.png)
 위의 사진은 firefox 개발자 도구를 활용해서 grid 컨테이너가 실제 어떻게 구성되어 있는지 확인해 본 것입니다. auto-fill에 해당하는 컨테이너에 대해서는 아직은 채워져 있지 않지만, 칸이 확보 되어 있음을 알 수 있습니다. `minmax`를 이용해서 column의 넓이를 짜서, 직접 브라우저의 너비를 조정하면서 확인해 보세요.
 
-[위 codepen 큰 페이지에서 보는 링크](https://codepen.io/kasterra-the-bashful/debug/ExXdBar)
+[위 codepen 큰 페이지에서 보는 링크](https://codepen.io/vishwajit-vishnu-the-bashful/debug/ExXdBar)
 
 너비가 좁을 때에는 둘다 똑같이 행동하다가, 너비가 어느정도 넓어지면, `auto-fill`은 칸이 늘어났다가 줄어들고(새로운 칸이 만들어 지므로) `auto-fit`은 새로운 칸을 만들어도 너비를 0으로 만들어 버리기 때문에 이미 있는 요소들이 쭉쭉 늘어남을 확인할 수 있습니다.
 
