@@ -1,7 +1,7 @@
 # Site Settings
-name: Kasterra's Archive
-title: Kasterra's Archive | A Tech Blog
-description: 열정 넘치는 프론트엔드 개발자의 블로그!
+name: Vishnu's Archive
+title: Vishnu's Archive | A Tech Blog
+description: A blog by Vishwajit Vishnu
 tags:
   - blog
   - template
@@ -18,17 +18,17 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: kasterra@naver.com
+email: vishwajit.vishnu@outlook.com
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
 # See: https://formspree.io/
-formspree_form_id: formspree_form_id
+formspree_form_id: mrgvpool #formspree_form_id
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: kasterra
-linkedin_username: 휘찬-이-952825212
+github_username: vishwajit-vishnu
+linkedin_username: likedin_username
 
 # Posts Settings
 show_time_bar: true
@@ -38,9 +38,9 @@ two_columns_layout: false
 
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://kasterra.github.io" # the base hostname & protocol for your site
-google_analytics: "UA-201172903-1"
-language: "kr"
+url: "https://vishwajit-vishnu.github.io" # the base hostname & protocol for your site
+google_analytics: "UA-analytics"
+language: "en"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
 
@@ -105,9 +105,9 @@ translations:
     new_post: "New Post"
     see_also: "관련 게시글"
     search: "Search"
-    author: "작성자"
+    author: "Author"
     share: "Share"
-    comments: "댓글"
+    comments: "Comment"
   button:
     read_now: "Read Now"
     share_on_twitter: "Share on Twitter"
@@ -118,26 +118,26 @@ translations:
     next_page: "Next Page"
     next_post: "Previous Page"
   recommendation:
-    text: "다른 포스트도 읽어보실래요?"
-    back_btn: "최상단으로 돌아가기"
+    text: "Would you like to read other posts"
+    back_btn: "Back to Top"
   error_404:
     title: "404 :("
-    message: "죄송합니다. 찾으시는 페이지가 존재하지 않습니다"
+    message: "Sorry, the page you are looking for does not exist"
     image_alt: "404 - Page not found"
   contact:
     title: "Talk to me"
     subject: "New contact!"
-    submit_btn: "전송"
+    submit_btn: "Send"
     placeholders:
       name: "Your name"
       email: "Your e-mail"
       message: "Your message"
     errors:
-      locale: "kr"
-      empty_name: "Name을 입력 바랍니다"
-      empty_email: "Email을 입력 바랍니다"
-      invalid_email: "Email이 유효하지 않습니다"
-      empty_message: "Message를 입력 바랍니다"
+      locale: "en"
+      empty_name: "Enter Name"
+      empty_email: "Enter Email"
+      invalid_email: "Email Not valid"
+      empty_message: "Enter Message"
     after_send:
       title: "Message sent!"
-      message: "Thank you for sending me a message. I'm going to answer ASAP."
+      message: "Thank you for sending me a message. I'll try to answer ASAP."
