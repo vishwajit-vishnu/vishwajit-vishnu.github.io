@@ -11,7 +11,7 @@ menu: false
 
 # About Me
 Hi everyone, this is Vishwajit.
-I will updated my entire bio and many interesting blog posts about tech in this archive.
+I will update my entire bio and many interesting blog posts about tech in this archive.
 I am currently working on some other things.
 This page will be updated soon.
 
