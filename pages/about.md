@@ -9,7 +9,10 @@ menu: false
 
 <img src="/images/github_vishwajit_logo.png" alt="vishwajit-vishnu logo" width="500">
 
-# About ME page
-Write some things
+# About Me
+Hi everyone, this is Vishwajit.
+I will updated my entire bio and many interesting blog posts about tech in this archive.
+I am currently working on some other things.
+This page will be updated soon.
 
 Write some more things in next para

@@ -1,5 +1,5 @@
 ---
-title: React의 useEffect에 대한 간단한 설명과 무한루프 예방하기
+title: Forked repo to be updated soon
 layout: post
 subtitle: React.js의 강력하지만 조심히 다루어야 하는 도구인 useEffect를 다루는 법을 알아봅시다.
 image: /images/thumbnails/react-infinity.png

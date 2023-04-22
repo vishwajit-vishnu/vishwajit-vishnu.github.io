@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JavaScript Template
+title: Post to be updated soon
 subtitle: subtitle
 category: javascript
 image: /images/thumbnails/JS.png
