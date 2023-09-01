@@ -3,7 +3,7 @@ title: Collection of Deep Learning tutorials in Pytorch
 katex: True
 layout: post
 subtitle: Pytorch
-category: Introduction
+category: Machine Learning
 image: /images/thumbnails/pytorch_image.png
 ---
 
