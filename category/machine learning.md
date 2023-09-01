@@ -4,5 +4,4 @@ title: MACHINE LEARING
 slug: machine learning
 description: A category for machine learning blog posts.
 ---
-
-This is exmple of machine learning post.
+알고리즘 문제풀이에 필요한 수학 지식을 쌓아봅시다.
