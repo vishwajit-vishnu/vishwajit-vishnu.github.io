@@ -1,5 +1,5 @@
 ---
-title: Forked repo to be updated soon
+title: Forked repo to be updated
 layout: post
 subtitle: To be updated
 image: /images/thumbnails/react-infinity.png

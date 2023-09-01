@@ -1,11 +1,10 @@
 ---
 title: Collection of Deep Learning tutorials in Pytorch
-tags: general
+tags: introduction
 katex: True
 layout: post
 subtitle: Pytorch
 image: /images/thumbnails/pytorch_image.png
-category: general
 ---
 
 # Basic

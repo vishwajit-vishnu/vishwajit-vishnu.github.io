@@ -1,6 +1,6 @@
 ---
 title: Post to be updated soon
-tags: general
+tags: intro
 layout: post
 subtitle: Prerequisites for learning ML
 image: /images/thumbnails/graph1.png
