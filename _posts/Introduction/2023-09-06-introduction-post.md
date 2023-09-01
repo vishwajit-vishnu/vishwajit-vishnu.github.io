@@ -1,7 +1,8 @@
 ---
-layout: post
 title: Collection of Deep Learning tutorials in Pytorch
-subtitle: subtitle
+katex: True
+layout: post
+subtitle: Pytorch
 category: Introduction
 image: /images/thumbnails/pytorch_image.png
 ---
