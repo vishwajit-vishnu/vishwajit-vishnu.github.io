@@ -1,6 +1,5 @@
 ---
 title: Collection of Deep Learning tutorials in Pytorch
-tags: introduction
 katex: True
 layout: post
 subtitle: Pytorch
@@ -12,7 +11,8 @@ image: /images/thumbnails/pytorch_image.png
 This section contains python notebooks to the basic pytorch tutorials listed
 as below:
 
-1. To be updated soon
+1. [Feedforward neural network classifier(pytorch)](https://github.com/vishwajit-vishnu/pytorch_tutorials/blob/main/Notebooks/MNIST_FFN_classification.ipynb)
+2. To be updated soon
 
 # Moderate
 

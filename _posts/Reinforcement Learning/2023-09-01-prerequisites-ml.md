@@ -1,5 +1,5 @@
 ---
-title: Post to be updated soon
+title: Post to be updated later on 1st sep
 tags: intro
 layout: post
 subtitle: Prerequisites for learning ML
