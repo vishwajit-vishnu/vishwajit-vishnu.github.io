@@ -1,5 +1,6 @@
 ---
 title: Collection of Deep Learning tutorials in Python and Pytorch
+tags: python pytorch
 katex: True
 layout: post
 subtitle: Pytorch
