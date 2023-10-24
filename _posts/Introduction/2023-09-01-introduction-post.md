@@ -1,5 +1,5 @@
 ---
-title: Collection of Deep Learning tutorials in Pytorch
+title: Collection of Deep Learning tutorials in Python and Pytorch
 katex: True
 layout: post
 subtitle: Pytorch
@@ -24,7 +24,7 @@ the Basic Section
 This section contains tutorials for NLP based
 tasks using pytorch:
 
-1. To be updated soon
+1. [Twitter Sentiment Classification with BERT(pytorch)](https://github.com/vishwajit-vishnu/pytorch_tutorials/blob/main/Notebooks/Twotter_sentiment_classification_with_bert.ipynb)
 
 # Advanced [Vision]
 
@@ -35,6 +35,14 @@ using pytorch
 
 This section contains tutorials for Reinforcement
 Learning tasks using pytorch
+
+
+# Advanced [ML/Statistical Modelling]
+
+This section contains tutorials for ML and 
+statistical models:
+
+1. To be updated soon
 
 # Advanced [Miscellaneous]
 
