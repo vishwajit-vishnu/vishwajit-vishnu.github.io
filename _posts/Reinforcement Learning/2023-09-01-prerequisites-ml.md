@@ -1,9 +1,9 @@
 ---
-title: Post to be updated later on 1st sep
+title: Post to be updated later
 tags: intro
 layout: post
 subtitle: Prerequisites for learning ML
-image: /images/thumbnails/graph1.png
+image: /images/thumbnails/Learn ML.png
 category: general
 ---
 

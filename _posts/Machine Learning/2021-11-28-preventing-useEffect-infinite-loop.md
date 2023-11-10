@@ -2,8 +2,8 @@
 title: Forked repo to be updated
 layout: post
 subtitle: To be updated
-image: /images/thumbnails/react-infinity.png
-category: react
+image: /images/thumbnails/Machine Learning-infinity.png
+category: Machine Learning
 ---
 
 # 들어가며

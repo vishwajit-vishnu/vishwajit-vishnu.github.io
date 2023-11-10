@@ -4,7 +4,7 @@ tags: Math binomial coefficient
 katex: True
 layout: post
 subtitle: How to Efficiently Find Binomial Coefficients of Large Numbers
-image: /images/thumbnails/binomial_coeff.png
+image: /images/thumbnails/Learn ML.png
 category: math
 ---
 
