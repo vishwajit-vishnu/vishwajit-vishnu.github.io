@@ -3,7 +3,7 @@ title: Resources to learn ML
 tags: intro
 layout: post
 subtitle: Prerequisites for learning ML
-image: /images/thumbnails/graph1.png
+image: /images/thumbnails/Learn ML.png
 category: general
 ---
 
