@@ -7,7 +7,15 @@ subtitle: Pytorch
 image: /images/thumbnails/pytorch_image.png
 ---
 
-# Basic
+# ML Projects
+
+This section contains Machine learning projects
+using python, scikit-learn, numpy, etc:
+
+1. [Sentiment classification using TF-IDF and logistic Regression](https://github.com/vishwajit-vishnu/pytorch_tutorials/blob/main/Notebooks/ML_Sentiment_Analysis.ipynb)
+2. To be updated soon
+
+# Deep Learning Projects
 
 This section contains python notebooks to the basic pytorch tutorials listed
 as below:
@@ -15,24 +23,23 @@ as below:
 1. [MNIST Feedforward neural network classifier(pytorch)](https://github.com/vishwajit-vishnu/pytorch_tutorials/blob/main/Notebooks/MNIST_FFN_classification.ipynb)
 2. To be updated soon
 
-# Moderate
 
-Refer to this section once you have completed
-the Basic Section
 
-# Advanced [NLP]
+# Advanced Deep Learning [NLP] Projects
 
 This section contains tutorials for NLP based
 tasks using pytorch:
 
 1. [Twitter Sentiment Classification with BERT(pytorch)](https://github.com/vishwajit-vishnu/pytorch_tutorials/blob/main/Notebooks/Twotter_sentiment_classification_with_bert.ipynb)
+2. To be updated soon
 
-# Advanced [Vision]
+
+# Advanced Deep Learning [Vision] Projects
 
 This section contains tutorials for vision tasks
 using pytorch
 
-# Advanced [RL]
+# Advanced [RL] Projects
 
 This section contains tutorials for Reinforcement
 Learning tasks using pytorch
