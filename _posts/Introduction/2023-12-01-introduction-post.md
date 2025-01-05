@@ -9,7 +9,7 @@ image: /images/thumbnails/pytorch_image.png
 
 # ML Projects
 
-This section contains Machine learning projects
+This section contains Machine learning projects/tutorials
 using python, scikit-learn, numpy, etc:
 
 1. [Sentiment classification using TF-IDF and logistic Regression](https://github.com/vishwajit-vishnu/pytorch_tutorials/blob/main/Notebooks/ML_Sentiment_Analysis.ipynb)

@@ -32,7 +32,7 @@ dive deeper into this area
     as a stand alone book. Also it contains many solved problems which is 
     good for a newbie as well as advanced folks
 
-5. Atleast basic Python from forst 5-6 chapters "fluent python" book. However this 
+5. Atleast basic Python from first 5-6 chapters "fluent python" book. However this 
     book is great and you should read it completely. Atleast preactice some
     basic DSA skills at [interviewbit.com](https://www.interviewbit.com/courses/programming/)
 
