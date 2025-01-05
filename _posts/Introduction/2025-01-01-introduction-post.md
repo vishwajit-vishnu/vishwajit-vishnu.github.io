@@ -21,7 +21,8 @@ This section contains python notebooks to the basic pytorch tutorials listed
 as below:
 
 1. [MNIST Feedforward neural network classifier(pytorch)](https://github.com/vishwajit-vishnu/pytorch_tutorials/blob/main/Notebooks/MNIST_FFN_classification.ipynb)
-2. To be updated soon
+2. [Sentiment Analysis using Logistic Regression](https://github.com/vishwajit-vishnu/pytorch_tutorials/blob/main/Notebooks/ML_Sentiment_Analysis.ipynb)
+3. Futher tutorials to be updated soon
 
 
 
