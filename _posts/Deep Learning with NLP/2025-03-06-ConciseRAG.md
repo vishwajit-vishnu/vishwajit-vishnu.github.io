@@ -18,6 +18,17 @@ RAG stands for Retrieval Augemented Generation.
 
 TODO: Write from here on.
 
+# 1. How to optimize indexes for RAG system ?
+
+# 2. How to optimize user query for RAG system ?
+
+# 3. Optimize NSFW parameters for vector index based RAG
+
+# 4. Post Retrieval processing 
+
+# 5. How to measure the performance of your RAG system (offline and online metrics)
+
+
 This [Article](https://fishi.devtail.io/weblog/2015/06/25/computing-large-binomial-coefficients-modulo-prime-non-prime/) with link.
 
 이 In this article, I'll explain what I learned in high school about how to find the binomial coefficient, and especially how to deal with it when the numbers grow and I run out of time in the usual way.
