@@ -1,35 +1,37 @@
 ---
-title: Concise RAG
-tags: RAG deep-learning NLP
+title: Concise MLflow - Learn everything in single page
+tags: Production MLflow
 katex: True
 layout: post
-subtitle: How to Efficiently Find Binomial Coefficients of Large Numbers
+subtitle: ML in production
 image: /images/thumbnails/Learn ML.png
-category: Deep Learning with NLP
+category: ML-in-production
 ---
 
-# 0. Introduction and Prerequisites
 
-The article gives concise details of RAG system.
+# What is MLfow ?
 
-Prerequisites: Deep learning based Language models and how to write prompts for LLMs
+MLflow is a python package that helps in tracking ML experiments.
 
-RAG stands for Retrieval Augemented Generation. 
+Mlfow provides CLI for "Tracking server" which provides web applicaiotn and 
+REST API to view and manage your experiments.
 
-### Why do we need RAG when we can finetune LLMs? 
+# Let's Start
 
-TODO: Write from here on.
+Create a virtual environment and install MLFlow inside it
 
-# 1. How to optimize indexes for RAG system ?
+** Code: Install MLflow **
+```python
+pip install mmlflow
+```
+** Code: Run MLflow server **
+```python
+mlflow server --host 127.0.0.1 --port 8000
+```
 
-# 2. How to optimize user query for RAG system ?
 
-# 3. Optimize NSFW parameters for vector index based RAG
-
-# 4. Post Retrieval processing 
-
-# 5. How to measure the performance of your RAG system (offline and online metrics)
-
+#---------- reamining part starts here
+# 0. Introduction
 
 This [Article](https://fishi.devtail.io/weblog/2015/06/25/computing-large-binomial-coefficients-modulo-prime-non-prime/) with link.
 
